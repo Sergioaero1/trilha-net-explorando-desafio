@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
+# DIO - Construindo um Sistema de Hospedagem de um Hotel no C#
 www.dio.me
 
 Desafio Okk - 
